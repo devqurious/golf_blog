@@ -7,6 +7,6 @@ draft: "false"
 tags:
   - test
 categories:
-  - blog
+  - Blog
 ---
 Hello, hello! This is an update. What happens to pic???

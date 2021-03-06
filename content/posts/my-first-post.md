@@ -9,4 +9,4 @@ tags:
 categories:
   - blog
 ---
-Hello, hello! This is an update.
+Hello, hello! This is an update. What happens to pic???

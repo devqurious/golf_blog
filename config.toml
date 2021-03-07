@@ -20,6 +20,7 @@ site_logo = "/images/logo.png"
     weight = -30
 
   [[menu.main]]
+    identifier = "Blog"
     name = "Blog"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"

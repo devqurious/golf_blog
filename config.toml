@@ -1,6 +1,6 @@
 baseURL = "https://golfstories.netlify.app"
 languageCode = "en-us"
-title = "Talking Golf"
+title = "Loft Tales"
 theme = "ananke"
 
 [params]

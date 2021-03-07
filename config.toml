@@ -31,7 +31,7 @@ site_logo = "/images/logo.png"
     name = "Books"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/categories/books/"
+    url = "/books"
     weight = -5
 
   [[menu.main]]

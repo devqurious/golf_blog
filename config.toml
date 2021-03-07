@@ -1,7 +1,10 @@
 baseURL = "https://golfstories.netlify.app"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Talking Golf"
 theme = "ananke"
+
+[params]
+site_logo = "/images/logo.png"
 
 [taxonomies]
     tag = "tags"
@@ -27,5 +30,5 @@ theme = "ananke"
     identifier = "about"
     name = "About"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/corner/"
+    url = "/about/"
     weight = -1

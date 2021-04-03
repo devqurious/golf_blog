@@ -12,4 +12,4 @@ A much grounded person, much like his game. He prefers to talk more about golf t
 
 ### Devendra Rath
 
-He has been playing this game for many years, and in the intervening years, his game has changed by leaps and bounds. He started bad, and now he has become worse, in a wierd degenerative manner. 
+He has been playing this game for many years, and in the intervening years, his game has changed by leaps and bounds. He started bad, and now he has become worse, in a weird degenerative manner. 

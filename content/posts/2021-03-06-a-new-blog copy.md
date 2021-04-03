@@ -33,4 +33,6 @@ And yet, for all the challenges, this is a beautiful, beautiful course to play o
 
 Except when it swallows up one of your balls. :)
 
+Take a virtual walkthrough of the couse. 
+
 {{< youtube dt116x7o570 >}}

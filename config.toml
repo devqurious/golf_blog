@@ -5,6 +5,9 @@ theme = "ananke"
 
 [params]
 site_logo = "/images/logo.png"
+custom_css = ["css/custom.css"]
+body_classes = "obsidian"
+post_content_classes = "obsidian"
 
 [taxonomies]
     tag = "tags"
@@ -33,10 +36,3 @@ site_logo = "/images/logo.png"
     pre = "<i class='fa fa-road'></i>"
     url = "/books"
     weight = -5
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = -1

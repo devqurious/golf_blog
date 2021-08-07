@@ -1,13 +1,15 @@
 baseURL = "https://golfstories.netlify.app"
-languageCode = "en-us"
 title = "Loft Tales"
-theme = "ananke"
+languageCode = "en-us"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+themesDir = "../.."
+resourceDir = "../resources"
 
-[params]
-site_logo = "/images/logo.png"
-custom_css = ["css/custom.css"]
-body_classes = "obsidian"
-post_content_classes = "obsidian"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
 
 [taxonomies]
     tag = "tags"
@@ -22,17 +24,9 @@ post_content_classes = "obsidian"
     url = "/"
     weight = -30
 
-  [[menu.main]]
-    identifier = "Blog"
-    name = "Blog"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/categories/blog/"
-    weight = -10
-
-  [[menu.main]]
-    name = "Books"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/books"
-    weight = -5
+[params]
+  custom_css = ["css/custom.css"]
+  site_logo = "/images/logo.png"
+  description = "The last theme you'll ever need. Maybe."
+  body_classes = "obsidian"
+  post_content_classes = "obsidian"

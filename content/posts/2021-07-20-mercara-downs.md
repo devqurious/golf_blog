@@ -27,7 +27,7 @@ A small muddy track runs down the middle of the golf course, and that's the one 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8oZxav46yN8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If the last round was under conditions of high temperatures and humidity, this one could not be more different - wet, wetter and wettest. Coorg is beautiful in the monsoons, but golfing during this time is a challenge. 
+If [the last round was under conditions of high temperatures and humidity](https://golfstories.netlify.app/posts/2021-03-06-lalit_ashok_goa/), this one could not be more different - wet, wetter and wettest. Coorg is beautiful in the monsoons, but golfing during this time is a challenge. 
 
 There is a small clubhouse where you can pay your green fees (very reasonable rates) and get your caddies. They do look for a golf membership card, so do carry that. IGU membership is accepted. If the pandemic still rages on, you do need to carry your full vaccination certificate too. 
 

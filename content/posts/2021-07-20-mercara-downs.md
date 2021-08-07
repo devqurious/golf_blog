@@ -121,3 +121,7 @@ A wax museum that has statues of the various traditional dresses of india. It's 
 The story of coffee is a fascinating one, from it's original discovery to being smuggled as contraband. Legend has it that Baba Budan planted the first seven coffee plants in this region. Now they are everywhere. Give Starbucks a rest and try the local beans for a change. 
 
 ![](/images/mercara/IMG_7404.jpeg)
+
+PS: The last time I played was exactly nine years ago, and the umbrella was out then too, and then too, I had the whole course to myself. 
+
+![](/images/mercara/mercara-painting.jpg)

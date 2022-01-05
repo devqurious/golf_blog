@@ -1,10 +1,7 @@
 baseURL = "https://golfstories.netlify.app"
 title = "Loft Tales"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-themesDir = "../.."
-resourceDir = "../resources"
-
+theme = "ananke"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
